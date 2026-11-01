@@ -8,7 +8,7 @@
     "uitest": "bddgen && playwright test --grep @ui",
     "apitest": "bddgen && playwright test --grep @api"
   },
-  "author": "Anshul",
+  "author": "Emad Gendy",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.56.1",
